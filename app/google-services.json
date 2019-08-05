@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "313985014914",
+    "firebase_url": "https://travelmantics-77432.firebaseio.com",
+    "project_id": "travelmantics-77432",
+    "storage_bucket": "travelmantics-77432.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313985014914:android:7b53d38a125cc57c",
+        "android_client_info": {
+          "package_name": "com.alc.travelmantics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313985014914-rgq3f7jr0uhi52qf0d79me8oenbrnrtp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alc.travelmantics",
+            "certificate_hash": "ab326463e7f71d8e36d796b4119ce09ffa5ef25d"
+          }
+        },
+        {
+          "client_id": "313985014914-pd6rpndt4eg09p524vg7fd4luhr102si.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgUJBI8ANz69alDrYdBICS0urpx8OM04E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313985014914-pd6rpndt4eg09p524vg7fd4luhr102si.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313985014914:android:b4470d06b32c6715",
+        "android_client_info": {
+          "package_name": "com.example.travelmantics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313985014914-l8i91t8lgu0591bruetp0p7mc7nbkspn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.travelmantics",
+            "certificate_hash": "ab326463e7f71d8e36d796b4119ce09ffa5ef25d"
+          }
+        },
+        {
+          "client_id": "313985014914-pd6rpndt4eg09p524vg7fd4luhr102si.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgUJBI8ANz69alDrYdBICS0urpx8OM04E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313985014914-pd6rpndt4eg09p524vg7fd4luhr102si.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
